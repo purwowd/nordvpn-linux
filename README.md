@@ -1,5 +1,5 @@
 
-# NordVPNC CLI for Linux
+# NordVPN CLI for Linux
 
 ![NordVPN Linux](nordvpn-linux.png)
 
